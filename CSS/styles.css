@@ -1,0 +1,142 @@
+/****************************** TAG SELECTOR **************************/
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.875rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+}
+
+/****************************** CLASS SELECTOR **************************/
+.pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #f7fae2;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 2%;
+    margin-bottom: -5px;
+}
+
+.top_cloud {
+    position: relative;
+    margin-left: 650px;
+    margin-top: 0;
+    
+}
+
+.mountain{
+    padding-top: -10px;
+    
+}
+
+.bottom_cloud {
+    position: absolute;
+    padding-top: 10px;
+}
+
+.middle-container {
+    padding-top: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    background-color: #ffeaec;
+    
+}
+
+.bottom-container {
+    padding: 10px 0px 20px;
+    background-color: #E1AEFF;
+    
+}
+
+.Contact{
+    
+    padding-top: 5px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(64, 255, 144);
+}
+
+.Contact2{
+    padding-top: 30px;
+    padding-bottom: 200px;
+    background-color: cyan;
+    line-height: 2em;
+}
+
+/****************************** ID SELECTOR **************************/
+
+#Id1{
+    
+    margin: 0 auto;
+}
+
+#name{
+    
+    font-style:oblique;
+    font-size:1.1rem;
+}
+
+#Id2{
+    text-decoration: underline;
+    font-size: 3.5rem;
+}
+
+#Id3{
+    text-decoration: underline;
+}
+
+#HR{
+    margin: 0px;
+    padding: 0;
+    color: black;
+    border-width: 1px;
+    border-style:solid;
+}
+
+#HR2{
+    
+    padding: 0;
+    color: black;
+    
+    position:unset;
+    width: 1200px;
+    border-width: 1px;
+    border-top:dotted;
+
+}
+
+#con1{
+    line-height: 1em;
+    font-size: 1rem;
+}
+
+#csize{
+    font-family:cursive,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.2rem;
+}
+
+#cpwr{
+    padding-bottom: 10px;
+}
